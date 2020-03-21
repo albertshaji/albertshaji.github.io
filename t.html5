@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>$title$ - Albert Shaji</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="author" content="albert shaji" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+$if(keywords)$
+    <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
+$endif$
+    <link rel="icon" href="piskel.png" type="image/png">
+    <link rel="stylesheet" href="style.css" />
+$if(math)$
+  $math$
+$endif$
+</head>
+<body>
+<div id="who">Albert Shaji</div>
+<div id="bar">
+	[<a href="index.html"> Home </a>]
+	[<a href="about.html"> About </a>]
+	[<a href="contact.html"> Contact </a>]
+</div>
+<div id="art">
+$if(title)$
+<h1>$title$</h1>
+$if(subtitle)$
+<p>$subtitle$</p>
+$endif$
+$for(author)$
+<p>$author$</p>
+$endfor$
+$if(date)$
+<p>$date$</p>
+$endif$
+$endif$
+$body$
+</div>
+</body>
+</html>

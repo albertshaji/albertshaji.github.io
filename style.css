@@ -1,0 +1,67 @@
+body {
+    max-width: 55rem;
+    margin: auto;
+    background-color: #222;
+    color: #bbb;
+    font-family: "source code pro", monospace;
+}
+
+h1 {
+    font-weight: normal;
+    color: wheat;
+    margin: 1.25rem 0;
+    text-align: center;
+}
+
+img {
+    max-width:100%;
+    border: 1px solid black;
+}
+
+figure {
+    margin: 1rem;
+}
+
+figcaption {
+    color: tan;
+}
+
+#who {
+    color: wheat;
+    text-align: center;
+    font-size: 2rem;
+    margin: .5rem;
+}
+
+#bar {
+    color: tan;
+    font-size: 1.125rem;
+    text-align: center;
+    border-top: 1px dashed tan;
+    border-bottom: 1px dashed tan;
+}
+
+#art {
+	margin: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+p {
+    font-size: 1.125rem;
+    line-height: 1.5;
+}
+
+a {
+    font-size: 1.125rem;
+    color: tan;
+    text-decoration: none;
+}
+
+a:hover {
+    color: wheat;
+    text-decoration: underline;
+}

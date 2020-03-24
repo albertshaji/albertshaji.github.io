@@ -2,7 +2,7 @@
 title: My Story
 ---
 
-![Buddha Statue of Hyderabad, 29 February 2020](my_photo.jpg)
+![Buddha Statue of Hyderabad, 01 March 2020](my_photo.jpg)
 
 Fishing, fish and water was my love in childhood. My younger cousin and I were crazy about it. But I could only enjoy it during the summer holidays, that's when I visited my hometown. Drawing and painting was my other love. My sister and I use to make lots of drawings as a hobby and also to compete with each other.
 
@@ -15,4 +15,4 @@ Computers were my next love, I could sit down hours and days editing family trip
 Then I moved away from my family to the college campus, There two of my best friends influenced me to explore the mind and encouraged me to grow spiritually. There I spend a significant amount of my time with Linux, minimalist programs and bash scripts.
 <!-- [Git repo](https://github.com/albertshaji/x){target="_blank"}. -->
 
-Fortunately each summer vacation, I got the opportunity to visit premier research institutes and carry out projects. This enabled me to discover my true love for mathematics, which I still hold on. Even this [website evolved](README.html) from there.
+Fortunately each summer vacation, I got the opportunity to visit premier research institutes and carry out projects. This enabled me to discover my true love for mathematics, which I still hold on.

@@ -1,5 +1,5 @@
 body {
-    max-width: 55rem;
+    max-width: 50rem;
     margin: auto;
     background-color: #222;
     color: #bbb;
@@ -53,6 +53,10 @@ ul {
 p {
     font-size: 1.125rem;
     line-height: 1.5;
+}
+
+@media all and (min-width: 30rem) {
+    p {text-align: justify;}
 }
 
 a {

@@ -13,6 +13,6 @@ Science bombarded me with fascinating facts, but oftentimes I was not all convin
 Computers were my next love, I could sit down hours and days editing family trip photos in Photoshop all at once because access to my uncle's laptop was occasional, mostly summer holidays. A few years later I got ThinkPad T61, C++ programming was the only course in my high school that I wished to attend.
 
 Then I moved away from my family to the college campus, There two of my best friends influenced me to explore the mind and encouraged me to grow spiritually. There I spend a significant amount of my time with Linux, minimalist programs and bash scripts.
-<!-- [Git repo](https://github.com/albertshaji/x){target="_blank"}. -->
+<!-- [GitHub repo](https://github.com/albertshaji/x). -->
 
 Fortunately each summer vacation, I got the opportunity to visit premier research institutes and carry out projects. This enabled me to discover my true love for mathematics, which I still hold on.

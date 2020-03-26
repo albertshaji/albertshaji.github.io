@@ -37,5 +37,6 @@ $endif$
 $endif$
 $body$
 </div>
+<script src="newtab.js"></script>
 </body>
 </html>

@@ -8,4 +8,4 @@ Initially, I also wished to post educational articles, but [John Fish's](https:/
 
 An accidental encounter with [Fernando Basso's](https://fernandobasso.dev/about.html) webpage inspired me to post my story, instead of résumé content. Reading his story was a delightful experience. I also thank him for the minimalist design ideas.
 
-I write the contents in markdown format and then produce the HTML file using [Pandoc](https://pandoc.org/MANUAL.html) via the template file carrying website's structure.
+I write the contents in markdown format and then produce the HTML file using [Pandoc](https://pandoc.org/MANUAL.html) via the template file carrying the website's structure. The math symbols and equations are written in LaTeX. They are rendered in HTML via [Mathjax](https://pandoc.org/MANUAL.html#math-rendering-in-html).

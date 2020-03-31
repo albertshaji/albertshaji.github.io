@@ -12,7 +12,10 @@ $endif$
     <link rel="icon" href="piskel.png" type="image/png">
     <link rel="stylesheet" href="style.css" />
 $if(math)$
-  $math$
+    $math$
+    <style>
+    .math {font-size: 1.25rem;}
+    </style>
 $endif$
 </head>
 <body>

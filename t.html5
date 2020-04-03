@@ -20,11 +20,11 @@ $endif$
 </head>
 <body>
 <div id="who">Albert Shaji</div>
-<div id="bar">
-	[<a href="index.html"> Home </a>]
-	[<a href="about.html"> About </a>]
-	[<a href="contact.html"> Contact </a>]
-</div>
+<ul id="bar">
+    <li><a href="index.html">Posts</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+</ul>
 <div id="art">
 $if(title)$
 <h1>$title$</h1>

@@ -35,10 +35,19 @@ figcaption {
 
 #bar {
     color: tan;
-    font-size: 1.125rem;
     text-align: center;
-    border-top: 1px dashed tan;
-    border-bottom: 1px dashed tan;
+    border-top: 1px dotted tan;
+    border-bottom: 1px dotted tan;
+    margin: 0;
+}
+
+#bar li+li:before {
+    content: "\2022  ";
+    margin: 0 4px;
+}
+
+#bar li {
+    display: inline;
 }
 
 #art {

@@ -4,15 +4,18 @@ title: My Story
 
 ![Buddha Statue of Hyderabad, 01 March 2020](my_photo.jpg)
 
-Fishing, fish and water was my love in childhood. My younger cousin and I were crazy about it. But I could only enjoy it during the summer holidays, that's when I visited my hometown. Drawing and painting was my other love. My sister and I use to make lots of drawings as a hobby and also to compete with each other.
+## Childhood
 
-Then came a serious love and it was not that quick, I had a hard time understanding the mysterious unknown variable x in algebra. I found that math was the only subject that followed a definite rule. The rules of integer operations got me to think that way. Other subjects always felt like they were beyond my comprehension and hard to make sense!
+A small brook along the side of rice fields with little fishes wandering around. This is the first picture that comes to me when thinking about our childhood. I, my sister and cousins enjoyed playing in it, chasing fish and inventing new ways to catch those little fishes swimming very briskly. That was a lovely time but only happens during the summer holidays while other days I enjoyed painting and drawing with my sister.
 
-Science bombarded me with fascinating facts, but oftentimes I was not all convinced and asked many Whys and Hows. Some of them surprised my teachers, while others fetched me little trouble. Somehow I continued having them no matter what. High school days, during atomic theory class, some crucial questions really triggered my curiosity to go deep, I tried visualizing electrons and protons exchanging imaginary entities to hold each other, I enjoyed explaining all sorts of crazy phenomena with this exchange idea. I Scribbled these thoughts down on little paper clips and continue to explore to this date.
+## School
 
-Computers were my next love, I could sit down hours and days editing family trip photos in Photoshop all at once because access to my uncle's laptop was occasional, mostly summer holidays. A few years later I got ThinkPad T61, C++ programming was the only course in my high school that I wished to attend.
+I had trouble reading and understanding. In the midst of this battlefield there was a subject which helped me to relax and gave me confidence and pleasant feeling over life. I celebrated its beauty though had difficulties in accepting abstract ideas, like the unknown variable “x” in algebra. Most of the ideas felt very intuitive like my favorite one, the geometry of triangles.
 
-Then I moved away from my family to the college campus, There two of my best friends influenced me to explore the mind and encouraged me to grow spiritually. There I spend a significant amount of my time with Linux, minimalist programs and bash scripts.
-<!-- [GitHub repo](https://github.com/albertshaji/x). -->
+My passion for science was trivial until I begin to appreciate my curiosity and pursue fundamental questions on my own. The fact that textbooks mostly include the history of science disturbed me, so I went on to explore modern theories like General relativity which describes our world better. This empowered me to question the knowledge given to me and come up with crazy and intuitive explanations.
 
-Fortunately each summer vacation, I got the opportunity to visit premier research institutes and carry out projects. This enabled me to discover my true love for mathematics, which I still hold on.
+On the flip side I loved exploring the world of computers. Editing family trip photos in Photoshop was my first endeavor on a computer, later C++ programming. Programming seemed as friendly as mathematics when it became the only subject that helped me to survive high school.
+
+## College
+
+Then I moved away from my family to the colorful college campus, here two of my best friends encouraged me to rewrite my irrational religious beliefs and initiate the search of truth from within. At the same time I got to explore Linux, which gifted me the idea of simplicity and experience the joy of being open-minded. With God’s grace, each summer break I got to visit premier research institutes to carry out research projects. This helped me in many ways to shape my dreams and gave them wings.

@@ -19,7 +19,7 @@ $if(math)$
 $endif$
 </head>
 <body>
-<div id="who">Albert Shaji</div>
+<h1>Albert Shaji</h1>
 <ul id="bar">
     <li><a href="index.html">Posts</a></li>
     <li><a href="about.html">About</a></li>

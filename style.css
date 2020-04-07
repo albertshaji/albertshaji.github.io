@@ -9,7 +9,7 @@ body {
 h1, h2 {
     font-weight: normal;
     color: wheat;
-    margin: 1.25rem 0;
+    margin: .5rem 0;
     text-align: center;
 }
 
@@ -24,13 +24,6 @@ figure {
 
 figcaption {
     color: tan;
-}
-
-#who {
-    color: wheat;
-    text-align: center;
-    font-size: 2rem;
-    margin: .5rem;
 }
 
 #bar {
@@ -62,6 +55,7 @@ ul {
 p {
     font-size: 1.125rem;
     line-height: 1.5;
+    margin-bottom: 1.5rem;
 }
 
 @media all and (min-width: 30rem) {

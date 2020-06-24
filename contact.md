@@ -2,12 +2,15 @@
 title: Contact
 ---
 
-Email:  alby [at] disroot [dot] org
+Email:  alby (at) disroot (dot) org
 
-Mobile: +91 8281129015
+Telephone: +91 8281129015
 
-Social Media:
-[Twitter](Https://twitter.com/albymathphy),
-[Facebook](Https://facebook.com/albymathphy)
+Connect:
+[Linkedin](https://www.linkedin.com/in/albymathphy),
+[Twitter](https://twitter.com/albymathphy),
+[Facebook](https://facebook.com/albymathphy)
 
-You are welcome. I am always looking forward to the discussions/talks. If you find something to tell me, don't have a second thought, shoot me an email.
+Code Repository: [Github](https://github.com/albertshaji)
+
+You are welcome. I am always looking forward to talk, discuss and explore. If you find something to tell me, don't have a second thought, shoot me an email or give me a ring.

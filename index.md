@@ -1,17 +1,25 @@
 ---
-title: Posts
-keywords:
-- Mathematics
-- Habit
-- Prime
-- Numbers
-- Random
+title: My Story
 ---
 
-- 23 March, 2020 <br> [What got me started with “Research”](research.html)
+![Attappadi Village in Kerala](alby.jpg)
 
-- 06 March, 2020 <br> [One by One: Practice without Worry](one_by_practice.html)
+## Childhood
 
-- 04 March, 2020 <br> [Prime numbers and Irrational number's decimal expansion](prime_irrational.html)
+A small brook along the side of rice fields with little fishes wandering around. This is the first picture that comes to me when thinking about our childhood. I, my sister and cousins enjoyed playing in it, chasing fish and inventing new ways to catch those little fishes swimming very briskly. That was a lovely time but only happens during the summer holidays while other days I enjoyed painting and drawing with my sister.
 
-- 02 March, 2020 <br> [Evolution of this Website](README.html)
+## School
+
+I had trouble reading and comprehending. In the midst of this battlefield there was a subject which helped me to relax and gave me confidence and pleasant feeling over life. I celebrated its elegance though had difficulties in accepting abstract ideas, like the unknown variable “x” in algebra. Most of the ideas felt very intuitive like my favorite one, the geometry of triangles.
+
+My passion for science was trivial until I begin to appreciate my curiosity and pursue fundamental questions on my own. The fact that textbooks mostly include the history of science disturbed me, so I went on to explore modern theories like General relativity which describes our world better. This empowered me to question the knowledge given to me and come up with crazy and intuitive explanations.
+
+On the flip side I loved exploring the world of computers. Editing family trip photos in Photoshop was my first endeavor on a computer, later C++ programming. Programming seemed as friendly as mathematics when it became the only subject that helped me to survive high school.
+
+## College
+
+Then I moved away from my family to the colorful college campus, here two of my best friends encouraged me to rewrite my irrational religious beliefs and initiate the search of truth from within. At the same time I got to explore Linux, which gifted me the idea of simplicity and experience the joy of being open-minded. With God’s grace, each summer break I got to visit premier research institutes to carry out research projects. This helped me in many ways to shape my dreams and gave them wings.
+
+## Why this Website?
+
+To share the joy and wonder of the unpredictable journey that we all are curiously exploring :) It's a pleasure to share life experiences that shaped me and research questions that I'm involved ;) Welcome to [Articles](posts.html).

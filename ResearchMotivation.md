@@ -8,7 +8,10 @@ keywords:
 - science
 - nature
 - researchers
+meta: 23 March, 2020 | Bangalore, IN
 ---
+
+![Institute of Advanced study, Princeton](Einstein_AbrahamFlexner_Ias.jpg)
 
 [Nature Podcast](https://www.nature.com/nature/articles?type=nature-podcast) was my first introduction to research. It was a pleasing experience listening to novel discoveries and researchers sharing their excitement about it. The candid way in which it's presented gave me the impression that anyone with an inquisitive mind ready to fully involve with perseverance can share the same joy and excitement.
 

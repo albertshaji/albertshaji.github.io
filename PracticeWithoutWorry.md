@@ -1,5 +1,6 @@
 ---
 title: "One by One: Practice without Worry"
+meta: 06 March, 2020 | Hyderabad, IN
 ---
 
 The long efforts to create a disciplined habit in life taught me something cool. I kept on developing plans which kept on failing on implementation. Which made me very sad :( I simplified it with a monk's perspective, also being influenced by my Linux hobby.

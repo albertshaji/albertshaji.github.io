@@ -25,7 +25,6 @@ $endif$
     <li><a href="index.html">About</a></li>
     <li><a href="contact.html">Contact</a></li>
 </ul>
-<div id="art">
 $if(title)$
 <h1>$title$</h1>
 $if(subtitle)$
@@ -34,12 +33,11 @@ $endif$
 $for(author)$
 <p>$author$</p>
 $endfor$
-$if(date)$
-<p>$date$</p>
+$if(meta)$
+<p id="meta">$meta$</p>
 $endif$
 $endif$
 $body$
-</div>
 <script src="newtab.js"></script>
 </body>
 </html>

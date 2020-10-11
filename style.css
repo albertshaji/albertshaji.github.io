@@ -1,16 +1,18 @@
 body {
     max-width: 50rem;
     margin: auto;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+    font-family: "source code pro", monospace;
     background-color: #222;
     color: #bbb;
-    font-family: "source code pro", monospace;
+    font-weight: 400;
 }
 
 h1, h2 {
     font-weight: normal;
-    color: wheat;
-    margin: .5rem 0;
     text-align: center;
+    color: wheat;
 }
 
 img {
@@ -18,20 +20,15 @@ img {
     border: 1px solid black;
 }
 
-figure {
-    margin: 1rem;
-}
-
-figcaption {
-    color: tan;
-}
+figure { text-align: center; }
 
 #bar {
-    color: tan;
     text-align: center;
     border-top: 1px dotted tan;
     border-bottom: 1px dotted tan;
-    margin: 0;
+    padding: 0;
+    margin-top: -1rem;
+    color: tan;
 }
 
 #bar li+li:before {
@@ -39,36 +36,25 @@ figcaption {
     margin: 0 4px;
 }
 
-#bar li {
-    display: inline;
+#bar li { display: inline; }
+
+#meta {
+     text-align: center;
+     font-style: italic;
 }
 
-#art {
-	margin: 1rem;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-p {
-    font-size: 1.125rem;
-    line-height: 1.5;
-    margin-bottom: 1.5rem;
-}
+p { line-height: 1.5; }
 
 @media all and (min-width: 30rem) {
     p {text-align: justify;}
 }
 
 a {
-    font-size: 1.125rem;
-    color: tan;
     text-decoration: none;
+    color: tan;
 }
 
 a:hover {
-    color: wheat;
     text-decoration: underline;
+    color: wheat;
 }
